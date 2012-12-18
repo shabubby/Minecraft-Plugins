@@ -1,0 +1,10 @@
+name: Main
+main: me.shabubby.Testing.Main
+version: 0.1
+author: shabubby
+description: This description is a stub.
+
+commands:
+  talk:
+    description: Send Me
+ 
